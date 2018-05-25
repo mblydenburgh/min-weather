@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  background-color: #555555;
+  color: white;
+}
+
+.container{
+  text-align: center;
+  padding-top: 25px;
+}
+
+#weatherIcon{
+  width: 200px;
+}
+
+#tempMet{
+  display:none;
+}
